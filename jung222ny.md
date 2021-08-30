@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kohjungin
+- 👋 Hi, I’m Jelly!
 - 👀 I’m interested in Art, Baking and Philosophy
 - 🌱 I’m currently learning Java script
 - 💞️ I’m looking to collaborate on ...
